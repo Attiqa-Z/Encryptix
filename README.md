@@ -1,6 +1,6 @@
 # Tribute Page
 
-This is my first project as an internee at Encryptix. I create a Tribute to Imran Khan.
+This is my first project as an internee at Encryptix. I create a Tribute to Imran Khan, A landing Page and A Calculator. 
 
 ## Authors
 
